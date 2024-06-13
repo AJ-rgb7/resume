@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: red;
+}
+p {
+  color: black;
+  font-size: 24px;
+  margin-top: 10fr;
+  padding-top: 0%;
+}
+h2 {
+  text-align: center;
+  border-style: solid;
+  border-color:cornflowerblue; 
+  background-color:green;
+  font-weight: bold;
+}
+body {
+  background: rgba(234, 242, 255, 0.18);
+}
+p {
+  font-family: monospace;
+}
+h1 {
+  text-align: center;
+  border-style: solid;
+  border-color:cornflowerblue; 
+  background-color:green;
+  font-weight: bold;
+  font-size: 40px;
+}
+
